@@ -7,5 +7,6 @@
 	<h1>User Story</h1>
 	<body>
 		<p>As a novice user I need to find an image url and copy.</p>
+		<a href="erd.php">erd</a>
 	</body>
 </html>
