@@ -1,0 +1,18 @@
+.my-list {
+	padding: 5px;
+	margin: 10px;
+	list-style: none;
+}
+ .my-item{
+	background: tomato;
+	flex-wrap: wrap;
+	line-height: 150px;
+	color: white;
+	font-weight: bold;
+	font-size: 3em;
+	text-align: center;
+}
+
+.my-list{
+
+}
