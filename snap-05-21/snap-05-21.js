@@ -231,7 +231,7 @@
 				"bs": "target end-to-end models"
 			}
 		}
-	]
+	];
 function removeCompany() {
 	const mapApproach = users.map((a) => {
 		delete a.company;
